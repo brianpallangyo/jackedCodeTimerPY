@@ -1,7 +1,7 @@
 # jackedCodeTimerPY
 Simple but powerful code timer that can measure execution time of one line, functions, imports and gives statistics (min/max/mean/total time, number of executions).
 
-![](https://github.com/BebeSparkelSparkel/jackedCodeTimerPY/blob/master/small.jpg?raw=true)
+![](https://github.com/amerghaida/jackedCodeTimerPY/blob/master/small.jpg?raw=true)
 
 Get good data like this
 ```
@@ -13,9 +13,9 @@ loop     5.96046e-06  1.50204e-05  6.71864e-06  0.000335932           50
 
 Install with pip
 ```shell
-pip install git+git://github.com/BebeSparkelSparkel/jackedCodeTimerPY.git
-pip3 install git+git://github.com/BebeSparkelSparkel/jackedCodeTimerPY.git
-pip3.5 install git+git://github.com/BebeSparkelSparkel/jackedCodeTimerPY.git
+pip install git+git://github.com/amerghaida/jackedCodeTimerPY.git
+pip3 install git+git://github.com/amerghaida/jackedCodeTimerPY.git
+pip3.5 install git+git://github.com/amerghaida/jackedCodeTimerPY.git
 ```
 
 ### Import to your script
@@ -53,8 +53,8 @@ JTimer.report(['imports', 'loop'])  # includes a special highlights table with o
 ```
 
 ### Example
-[example](https://github.com/BebeSparkelSparkel/jackedCodeTimerPY/blob/master/example.py)
-There is also a really good example [here](https://github.com/BebeSparkelSparkel/jackedCodeTimerPY/blob/master/example.py).
+[example](https://github.com/amerghaida/jackedCodeTimerPY/blob/master/example.py)
+There is also a really good example [here](https://github.com/amerghaida/jackedCodeTimerPY/blob/master/example.py).
 
 ### Conclusion
 I hope that jackedCodeTimerPY is super useful to you.
